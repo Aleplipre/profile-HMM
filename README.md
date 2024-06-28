@@ -11,4 +11,5 @@ Herramientas basadas en modelos ocultos de Markov para el análisis de secuencia
 
 ## El programa "dentista.py" consiste en una práctica que utiliza las herramientas de "profileHMM.py" para realizar un estudio sobre la transmisión del VIH en una colsulta clínica.
 
-Las secuencias genéticas utilizadas (y que se encuentran en la carpeta "Florida dentist") fueron extraídas de la base de datos GenBank del instituto nacional de salud de los Estados Unidos de América, y pueden encontrarse usando los códigos de acceso que van desde M90907 (https://moshi4.github.io/pyMSAviz/](https://www.ncbi.nlm.nih.gov/nuccore/M90847)) hasta M90966](https://moshi4.github.io/pyMSAviz/ (https://www.ncbi.nlm.nih.gov/nuccore/M90966).
+  - Las secuencias genéticas utilizadas (y que se encuentran en la carpeta "Florida dentist\genbank") fueron extraídas de la base de datos GenBank del instituto nacional de salud de los Estados Unidos de América, y pueden encontrarse usando los códigos de acceso que van desde M90907 (https://moshi4.github.io/pyMSAviz/](https://www.ncbi.nlm.nih.gov/nuccore/M90847)) hasta M90966](https://moshi4.github.io/pyMSAviz/ (https://www.ncbi.nlm.nih.gov/nuccore/M90966).
+  - El alineamiento de múltiples secuencias "Alineamiento_W.fas" se realizó a partir de estos datos utilizando las herramientas que proporciona el software MEGA (https://www.megasoftware.net/).
